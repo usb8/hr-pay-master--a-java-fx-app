@@ -5,3 +5,6 @@ note*.md
 
 *.class
 */.idea/*
+
+test.sh
+test.py
